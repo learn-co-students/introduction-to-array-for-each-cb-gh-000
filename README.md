@@ -1,4 +1,4 @@
-# Introduction to `Array.prototype.forEach()`
+h# Introduction to `Array.prototype.forEach()`
 
 ## Objectives
 1. Explain why we use `.forEach()`.
