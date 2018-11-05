@@ -1,5 +1,6 @@
 // Add your doToElementsInArray() function here:
 function doToElementsInArray(array, callback){
+  debugger
   array.forEach(callback);
 }
 
